@@ -107,4 +107,4 @@
 
 Цей плагін розроблено k1.  
 Ліцензія: MIT  
-GitHub:
+[Репозиторій на GitHub](https://github.com/koliasa/loop-delay)

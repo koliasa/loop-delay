@@ -108,4 +108,4 @@ If you encounter issues or have suggestions for improvement:
 
 This plugin was developed by Ihor Koliasa.  
 License: MIT  
-GitHub: 
+[GitHub Repository](https://github.com/koliasa/loop-delay)

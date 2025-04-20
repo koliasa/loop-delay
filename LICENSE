@@ -1,21 +1,42 @@
-MIT License
+Custom Software License Agreement
+(Extended MIT-based License)
 
 Copyright (c) 2025 Ihor Koliasa
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, under the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Attribution and Credit**
+   - All uses of the Software, including modified versions, must clearly acknowledge the original author: Ihor Koliasa.
+   - The name "Ihor Koliasa" must appear in all documentation, about dialogs, credits, or equivalent visible notices.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Repository Link**
+   - Any distribution (source or binary) must include a **clear and clickable link** to the original GitHub repository:  
+     https://github.com/koliasa/loop-delay  
+   - This applies to forks, modified versions, bundles, or commercial distributions.
+
+3. **Modifications**
+   - You are allowed to modify the Software.
+   - However, substantial modifications must be clearly documented.
+   - Modified versions must indicate that changes were made and must not misrepresent the original author’s work.
+
+4. **Redistribution**
+   - Redistribution in source or binary form is permitted with the inclusion of this license and attribution.
+   - You may not use the author's name, likeness, or project name to promote derivative products without written permission.
+
+5. **Commercial Use**
+   - Commercial use is allowed, but **credit and repository link are mandatory** in all product-related materials (website, app info, etc.).
+
+6. **Prohibited Uses**
+   - You may not use this Software in products or services that promote hate, violence, or violate international laws.
+   - You may not sell access to the Software without adding significant original value.
+
+7. **Termination**
+   - This license is terminated automatically if any of the above terms are violated.
+
+8. **Disclaimer**
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, ARISING FROM THE USE OF THE SOFTWARE.
+
+---
+
+For questions, contact the author via GitHub:  
+https://github.com/koliasa
